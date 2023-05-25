@@ -1,0 +1,12 @@
+/home/adalberto/Proyectos/ArgumentEvaluator/bin/release/net6.0/ArgumentEvaluator.deps.json
+/home/adalberto/Proyectos/ArgumentEvaluator/bin/release/net6.0/ArgumentEvaluator.dll
+/home/adalberto/Proyectos/ArgumentEvaluator/bin/release/net6.0/ArgumentEvaluator.pdb
+/home/adalberto/Proyectos/ArgumentEvaluator/obj/release/net6.0/ArgumentEvaluator.csproj.AssemblyReference.cache
+/home/adalberto/Proyectos/ArgumentEvaluator/obj/release/net6.0/ArgumentEvaluator.GeneratedMSBuildEditorConfig.editorconfig
+/home/adalberto/Proyectos/ArgumentEvaluator/obj/release/net6.0/ArgumentEvaluator.AssemblyInfoInputs.cache
+/home/adalberto/Proyectos/ArgumentEvaluator/obj/release/net6.0/ArgumentEvaluator.AssemblyInfo.cs
+/home/adalberto/Proyectos/ArgumentEvaluator/obj/release/net6.0/ArgumentEvaluator.csproj.CoreCompileInputs.cache
+/home/adalberto/Proyectos/ArgumentEvaluator/obj/release/net6.0/ArgumentEvaluator.dll
+/home/adalberto/Proyectos/ArgumentEvaluator/obj/release/net6.0/refint/ArgumentEvaluator.dll
+/home/adalberto/Proyectos/ArgumentEvaluator/obj/release/net6.0/ArgumentEvaluator.pdb
+/home/adalberto/Proyectos/ArgumentEvaluator/obj/release/net6.0/ref/ArgumentEvaluator.dll

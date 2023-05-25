@@ -1,0 +1,3 @@
+/home/adalberto/Proyectos/ArgumentEvaluator/bin/release/net6.0/publish/ArgumentEvaluator.dll
+/home/adalberto/Proyectos/ArgumentEvaluator/bin/release/net6.0/publish/ArgumentEvaluator.pdb
+/home/adalberto/Proyectos/ArgumentEvaluator/bin/release/net6.0/publish/ArgumentEvaluator.deps.json
